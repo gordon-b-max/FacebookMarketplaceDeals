@@ -1,23 +1,22 @@
-# Java Project
+# Facebook Marketplace Analytics Project
 
 ## Description
+Java project that finds and displays Facebook Marketplace deals in React. 
 
-This is a simple Java project that prints a welcome message and iterates through a loop to display numbers from 1 to 5.
+## Goals
+Currently, 
 
-## Features
+1. 
 
-- Prints a welcome message to the console.
-- Demonstrates a basic `for` loop in Java.
 
-## Requirements
 
-- Java Development Kit (JDK) 8 or higher.
-- An IDE or text editor (e.g., IntelliJ IDEA).
+## Tasks
+GitHub tasks not based on priority or order to be assigned 
+- Get access to Zillow API
 
-## How to Run
 
-1. Clone the repository or download the project files.
-2. Open the project in your preferred IDE.
-3. Compile and run the `Main` class located in `src/Main.java`.
 
-## Example Output
+## Future Ideas
+- Moving forward
+
+
